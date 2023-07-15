@@ -6,7 +6,7 @@
 # Table of Contents
 
 - [Table of Contents](#-table-of-contents)
-- [ Portfolio - Prantosh Biswas 🤘](#-about-project-)
+- [ Portfolio - Eriques Andrade](#-about-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -15,7 +15,6 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-  - [👥 Authors ](#-authors-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -23,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Portfolio - Eriques Andrade 🤘 <a name="about-project"></a>
+# Portfolio - Eriques Andrade **Inspired By Prantosh Theme** <a name="about-project"></a>
 
 This Personal Portfolio is a dynamic and interactive portfolio website built with React and Redux in the front-end and Jekyll in the back-end. It provides a modern and visually appealing platform for showcasing your skills, projects, and achievements to potential employers or clients.
 
