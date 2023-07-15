@@ -99,27 +99,3 @@ You may also see any lint errors in the console.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## ⭐️ Show your support <a name="support"></a>
-
-
-Give a ⭐️ if you like this project!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 📝 License <a name="license"></a>
-
-This project is copyright free. But I'll be grateful if you consider mentioning me.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
