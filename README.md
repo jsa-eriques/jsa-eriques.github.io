@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Portfolio - Eriques Andrade **Inspired By Prantosh Theme** <a name="about-project"></a>
+# Portfolio - Eriques Andrade <a name="about-project"></a>
 
 This Personal Portfolio is a dynamic and interactive portfolio website built with React and Redux in the front-end and Jekyll in the back-end. It provides a modern and visually appealing platform for showcasing your skills, projects, and achievements to potential employers or clients.
 
@@ -76,7 +76,7 @@ Clone this repository using the GitHub link provided below.
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone https://github.com/jsa-eriques/jsa-eriques.github.io
+$ git clone https://github.com/jsa-eriques/jsa-eriques.github.io.git
 ```
 
 
