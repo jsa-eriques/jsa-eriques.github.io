@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-<h1 align='center'> Portfolio - Prantosh Biswas 🤘 </h1>
+<h1 align='center'> Portfolio - Eriques Andrade </h1>
 
 
 # Table of Contents
@@ -23,7 +23,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Portfolio - Prantosh Biswas 🤘 <a name="about-project"></a>
+# Portfolio - Eriques Andrade 🤘 <a name="about-project"></a>
 
 This Personal Portfolio is a dynamic and interactive portfolio website built with React and Redux in the front-end and Jekyll in the back-end. It provides a modern and visually appealing platform for showcasing your skills, projects, and achievements to potential employers or clients.
 
@@ -39,11 +39,11 @@ This Personal Portfolio is a dynamic and interactive portfolio website built wit
   </ul>
 </details>
 
-### App Screenshot
-![screenshot](https://github.com/PrantoshB/React-Portfolio/blob/main/Screenshot%20from%202023-07-01%2022-15-34.png)
+<!-- ### App Screenshot
+![screenshot](https://github.com/PrantoshB/React-Portfolio/blob/main/Screenshot%20from%202023-07-01%2022-15-34.png) -->
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -77,7 +77,7 @@ Clone this repository using the GitHub link provided below.
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone https://github.com/PrantoshB/Prantosh-Biswas.git
+$ git clone https://github.com/jsa-eriques/jsa-eriques.github.io
 ```
 
 
@@ -96,22 +96,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.
 
 You may also see any lint errors in the console.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-👤 **Prantosh Biswas**
-
-- GitHub: [@PrantoshB](https://github.com/PrantoshB)
-- Twitter: [@prantalks](https://twitter.com/prantalks)
-- LinkedIn: [Prantosh Biswas](https://linkedin.com/in/prantosh)
-- Youtube: [Pran Talks](https://www.youtube.com/@prantalks)
-
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
