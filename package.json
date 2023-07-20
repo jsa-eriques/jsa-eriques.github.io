@@ -1,6 +1,6 @@
 {
-  "homepage": "http://jsa-eriques.github.io",
-  "name": "portfolio",
+  "homepage": "http://jsa-eriques.github.io/jsa-eriques.github.io",
+  "name": "jsa-eriques.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

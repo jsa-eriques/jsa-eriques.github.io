@@ -48,9 +48,10 @@
 }
 
 .paragraph {
-  font-size: 1.2rem;
-  text-transform: uppercase;
-  color: white;
+  font-family: 'Orbit', sans-serif;
+  font-size: 1.0rem;
+  /* text-transform: uppercase; */
+  color: rgb(255, 255, 255);
   opacity: 0.8;
   font-weight: normal;
   line-height: 2.2rem;
@@ -155,7 +156,7 @@
   }
 
   .paragraph {
-    font-size: 0.85rem;
+    font-size: 1rem;
     margin: 4% 0 5% 0;
     width: 100% !important;
   }
@@ -203,5 +204,58 @@
 
   .social-icons a {
     font-size: 1.5rem;
+  }
+}
+
+
+p {
+  background-color: #000;
+}
+.piscar {
+  color: #FFF;
+  -webkit-animation-name: blinker;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-name: blinker;
+  -moz-animation-duration: 3s;
+  -moz-animation-timing-function: linear;
+  -moz-animation-iteration-count: infinite;
+  animation-name: blinker;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+@-moz-keyframes blinker {
+  0% {
+    opacity: 1.0;
+  }
+  50% {
+    opacity: 0.0;
+  }
+  100% {
+    opacity: 1.0;
+  }
+}
+@-webkit-keyframes blinker {
+  0% {
+    opacity: 1.0;
+  }
+  50% {
+    opacity: 0.0;
+  }
+  100% {
+    opacity: 1.0;
+  }
+}
+@keyframes blinker {
+  0% {
+    opacity: 1.0;
+  }
+  50% {
+    opacity: 0.0;
+  }
+  100% {
+    opacity: 1.0;
   }
 }

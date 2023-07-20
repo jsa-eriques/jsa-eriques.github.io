@@ -7,9 +7,13 @@ const Hero = () => (
   <div className="hero" id="home">
     <div className="hero-overlay">
       <div className="description">
-        <h2 className="title">hELLO. i aM Eriques!</h2>
-        <h3 className="tagline">Front-end Developer</h3>
-        <p className="paragraph">[OBS] Olá e bem-vindo(a) ao meu portfólio! Sou um profissional com uma ampla gama de habilidades e experiências na área de gerenciamento de projetos e marketing. Ao longo dos anos, tenho trabalhado em projetos desafiadores e liderado equipes para alcançar resultados excepcionais.</p>
+        <h2 className="title piscar">OLá, me chamo Eriques!</h2>
+        <h3 className="tagline">Desenvolvedor Fullstack</h3>
+        <br />
+        <p className="paragraph">Bem-vindo(a) ao meu portfólio!
+        <br /> 
+        Sou um profissional com uma ampla gama de habilidades e experiências na área de gerenciamento e densevolvimento de projetos web. Ao longo dos anos, tenho trabalhado em projetos desafiadores e liderado equipes para alcançar resultados excepcionais.</p>
+        <br />
         <div className="hero-btns">
           <button className="hire-me">
             <a href="https://drive.google.com/file/d/1RIQlxcFspH89xvugEeEyvgSG_ABMX3rI/view?usp=drive_link" target="_blank" rel="noreferrer">

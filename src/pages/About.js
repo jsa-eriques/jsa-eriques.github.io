@@ -30,6 +30,13 @@ import JavaScript from '../assets/javascript.png'
 import PostMan from '../assets/postman.png'
 import Navicat from '../assets/navicat.png'
 import MySQL from '../assets/mysql2.png'
+import Docker from '../assets/docker.png'
+import Nodejs from '../assets/nodejs.png'
+import IntelliJ  from '../assets/intellij.png'
+import Tailwind from '../assets/tailwind.png'
+import Skeleton from '../assets/skeleton.png'
+import Angular from '../assets/angular.png'
+import Typescript from '../assets/typescript.png'
 
 const About = () => (
   <section className="about" id="about">
@@ -56,10 +63,24 @@ const About = () => (
         </div>
         <div className="skill">
           <img
+            src={Angular}
+            alt=""
+          />
+          <p>Angular</p>
+        </div>
+        <div className="skill">
+          <img
             src={JavaScript}
             alt=""
           />
           <p>JavaScript</p>
+        </div>
+        <div className="skill">
+          <img
+            src={Typescript}
+            alt=""
+          />
+          <p>Typescript</p>
         </div>
         <div className="skill">
           <img
@@ -102,6 +123,20 @@ const About = () => (
             alt=""
           />
           <p>Bootstrap</p>
+        </div>
+        <div className="skill">
+          <img
+            src={Tailwind}
+            alt=""
+          />
+          <p>Tailwind</p>
+        </div>
+        <div className="skill">
+          <img
+            src={Skeleton}
+            alt=""
+          />
+          <p>Skeleton</p>
         </div>
         {/* <div className="skill">
           <img
@@ -148,6 +183,20 @@ const About = () => (
           />
           <p>Navicat</p>
         </div>
+        <div className="skill">
+          <img
+            src={Docker}
+            alt=""
+          />
+          <p>Docker</p>
+        </div>
+        <div className="skill">
+          <img
+            src={Nodejs}
+            alt=""
+          />
+          <p>Nodejs</p>
+        </div>
       </div>
       <h2 className="skill-title">Mobile</h2>
       <div className="skills">
@@ -190,9 +239,15 @@ const About = () => (
           <img src={VSCode} alt="" />
           <p>VS Code</p>
         </div>
-        <div className="skill">
+        {/* <div className="skill">
           <img src={WebPack} alt="" />
           <p>Webpack</p>
+        </div> */}
+        <div className="skill">
+          <img
+            src={IntelliJ}
+          />
+          <p>IntelliJ</p>
         </div>
         <div className="skill">
           <img src={PostMan} alt="" />
