@@ -1,18 +1,26 @@
 import React from 'react';
 import './Hero.css';
 import { Link } from 'react-scroll';
-import Imu from '../assets/Meu projeto.png';
+import Imu from '../assets/[removal.ai]jsa-eriques-1.png';
+import { useTypewriter } from 'react-simple-typewriter';
 
-const Hero = () => (
+function Hero () {
+  const {Eriques} = useTypewriter({
+    words: ['Developer', 'Designer'],
+    loop: {},
+    typeSpeed: 120,
+    deleteSpeed: 80,
+  });
+  return (
   <div className="hero" id="home">
     <div className="hero-overlay">
       <div className="description">
-        <h2 className="title piscar">OLá, me chamo Eriques!</h2>
-        <h3 className="tagline">Desenvolvedor Fullstack</h3>
+        <h2 className="title">Eriques Andrade</h2>
+        <h3 className="tagline animated">Desenvolvedor Fullstack</h3>
         <br />
         <p className="paragraph">Bem-vindo(a) ao meu portfólio!
         <br /> 
-        Sou um profissional com uma ampla gama de habilidades e experiências na área de gerenciamento e densevolvimento de projetos web. Ao longo dos anos, tenho trabalhado em projetos desafiadores e liderado equipes para alcançar resultados excepcionais.</p>
+        Sou um entusiasta e aspirante a Desenvolvedor Fullstack Junior, ansioso para embarcar em minha jornada no mundo do desenvolvimento web. Com uma paixão genuína pela tecnologia, venho explorando e aprendendo as nuances dessa area.</p>
         <br />
         <div className="hero-btns">
           <button className="hire-me">
@@ -44,6 +52,7 @@ const Hero = () => (
         </a>
       </div>
   </div>
-);
+  )
+      };
 
 export default Hero;

@@ -62,6 +62,8 @@ const NavBar = () => {
               about,
             </Link>
           </li>
+          {
+          /*
           <li>
             <Link spy smooth offset={50} duration={500} onClick={toggleMenu} to="projects">
               projects,
@@ -73,7 +75,9 @@ const NavBar = () => {
                 contact
               </Link>
             </li>
-          </li>
+        </li>
+        */
+        }
         </ul>
       </nav>
       <div className={`scroll-to-top ${scroll ? 'scroll-true' : ''}`}>

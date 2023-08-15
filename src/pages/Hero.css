@@ -25,18 +25,18 @@
   align-items: center;
   justify-content: center;
   width: 35%;
-  animation-name: floating;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
-  border-radius: 30%;
+  /*animation-name: floating;
+  animation-duration: 3s;*/
+  /*animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;*/
+  /*border-radius: 30%;*/
 }
 
 .title {
   font-size: 5rem;
   color: white;
   margin: 0;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Orbit', sans-serif;
   overflow: hidden;
 }
 
