@@ -19,7 +19,7 @@ export const { setProjects } = projectsSlice.actions;
 export default projectsSlice.reducer;
 
 export const fetchProjects = () => async (dispatch) => {
-  const response = await fetch('https://prantoshb.github.io/Portfolio-Backend/portfolio.json');
+  const response = await fetch('https://jsa-eriques.github.io/json-database/data.json');
   const data = await response.json();
   dispatch(setProjects(data));
 };
